@@ -1,7 +1,5 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# MACBLOG
+THIS THE FIRST APP FOR LEARNING RUBY ON RAILS
 
 Things you may want to cover:
 
